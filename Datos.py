@@ -1,6 +1,6 @@
 print("hola mundo")
 
-nombre = "Victor Salinas"
+nombre = "Victor Manuel Salinas Gonzalez"
 edad = 30
 
 print("nombre")
